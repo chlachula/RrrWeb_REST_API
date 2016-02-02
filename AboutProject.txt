@@ -1,0 +1,1 @@
+This is simple description of the project Rochester RESTful Responsive web.
