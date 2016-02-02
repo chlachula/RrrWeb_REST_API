@@ -1,0 +1,21 @@
+# RrrWeb_REST_API
+
+# RRR web API
+
+Rochester RESTful Responsive web defines interface for RRR web example projects and allows  to connect server side and client side.
+
+**Naming convention**  
+`SERVER:` **RrrName_Language_Version**  
+`CLIENT:` **rrrName_Language_Version**
+
+
+## Hello [/name]
+Just one object with one property **name** for very simple Hello application.
+
+### Name [GET]
+
++ Response 200 (application/json)
+
+        {
+            "name": "World"
+        }
